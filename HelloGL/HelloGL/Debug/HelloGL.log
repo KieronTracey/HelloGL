@@ -1,0 +1,8 @@
+﻿  Cube.cpp
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+C:\Users\kiero\Desktop\HelloGL\HelloGL\HelloGL.cpp(151,22): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\kiero\Desktop\HelloGL\HelloGL\HelloGL.cpp(151,123): error C2661: 'Cube::Cube': no overloaded function takes 2 arguments
+  main.cpp
+  MeshLoader.cpp
+  Generating Code...
